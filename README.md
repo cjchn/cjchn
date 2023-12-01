@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjchn&layout=compact" style="padding-top: 10px;"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjchn&layout=compact"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://count.getloli.com/get/@:cjchn" />
